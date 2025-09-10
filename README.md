@@ -12,11 +12,11 @@
 
 ---
  
-### 📂 My Projects  
+### 📂 My Some Projects  
 - ✋ [ASL Sign Language Detection](https://github.com/darshild078/American-Sign-Language-Recognition-Webapp) – Deep Learning Project  
 - 🐦 [Switter](https://github.com/darshild078/SocialMediaApp-MERN-Stack) – MERN Stack Twitter Clone  
 - 🏋️ [Fict Fitness & Health Diet Tracker](https://github.com/YOUR_USERNAME/Fitness-Health-Diet-Tracker) – Android with Room DB  
-- 📊 [Stock Information Retrival](https://github.com/YOUR_USERNAME/Data-Visualization-Tool) – Python (Matplotlib, requests, pandas)  
+- 📊 [Stock Information Retrival](https://github.com/darshild078/Stock-Information-Retrival) – Python (Matplotlib, requests, pandas)  
 - 🌐 [Finance Tracker Website](https://github.com/YOUR_USERNAME/FICT-Website) – Static site using HTML, CSS, JS, MySQL, php 
 
 ---
