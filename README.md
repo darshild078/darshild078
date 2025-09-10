@@ -15,9 +15,8 @@
 ### 📂 My Projects  
 - ✋ [ASL Sign Language Detection](https://github.com/darshild078/American-Sign-Language-Recognition-Webapp) – Deep Learning Project  
 - 🐦 [Switter](https://github.com/darshild078/SocialMediaApp-MERN-Stack) – MERN Stack Twitter Clone  
-- 💰 [Finance Tracker](https://github.com/YOUR_USERNAME/Finance-Tracker) – Python Tkinter App & Android App  
 - 🏋️ [Fict Fitness & Health Diet Tracker](https://github.com/YOUR_USERNAME/Fitness-Health-Diet-Tracker) – Android with Room DB  
-- 📊 [Data Visualization Tool](https://github.com/YOUR_USERNAME/Data-Visualization-Tool) – Python (Matplotlib, pandas)  
+- 📊 [Data Visualization Tool](https://github.com/YOUR_USERNAME/Data-Visualization-Tool) – Python (Matplotlib, BeautifulSoup, pandas)  
 - 🌐 [Finance Tracker Website](https://github.com/YOUR_USERNAME/FICT-Website) – Static site using HTML, CSS, JS, MySQL, php 
 
 ---
