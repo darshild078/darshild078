@@ -13,8 +13,8 @@
 ---
  
 ### 📂 My Some Projects  
-- ✋ [ASL Sign Language Detection](https://github.com/darshild078/American-Sign-Language-Recognition-Webapp) – Deep Learning Project  
-- 🐦 [Switter](https://github.com/darshild078/SocialMediaApp-MERN-Stack) – MERN Stack Twitter Clone  
+- ✋ [ASL Detection](https://github.com/darshild078/American-Sign-Language-Recognition-Webapp) – Sign Language Detection using DL  
+- 🐦 [Switter](https://github.com/darshild078/SocialMediaApp-MERN-Stack) – A MERN Stack SocialMedia Platform  
 - 🏋️ [Fict Fitness & Health Diet Tracker](https://github.com/YOUR_USERNAME/Fitness-Health-Diet-Tracker) – Android with Room DB
 - 📧 [Email Classifier](https://github.com/darshild078/Email-Classifier-gui) - A GUI for classifying emails  
 - 📊 [Stock Information Retrival](https://github.com/darshild078/Stock-Information-Retrival) – Python (Matplotlib, requests, pandas)  
