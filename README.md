@@ -12,7 +12,7 @@
 
 ---
  
-### 📂 My Some Projects  
+### 📂 Some Projects  
 - ✋ [ASL Detection](https://github.com/darshild078/American-Sign-Language-Recognition-Webapp) – Sign Language Detection using DL  
 - 🐦 [Switter](https://github.com/darshild078/SocialMediaApp-MERN-Stack) – A MERN Stack SocialMedia Platform  
 - 🏋️ [Fict Fitness & Health Diet Tracker](https://github.com/YOUR_USERNAME/Fitness-Health-Diet-Tracker) – Android with Room DB
