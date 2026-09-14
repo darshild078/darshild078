@@ -193,8 +193,6 @@ A real-time multiplayer party game — players join a room, submit anonymous ans
 
 </div>
 
-> ⚙️ **Setup needed for the metrics image above:** it isn't live yet — it renders once you add the workflow below to your profile repo (`darshild078/darshild078`). It runs on GitHub's own infrastructure and commits the image straight into your repo, so unlike the old vercel widgets it can't be rate-limited or go down. Steps are below.
-
 <br>
 
 ## 📫 Let's Connect
