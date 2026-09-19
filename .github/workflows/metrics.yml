@@ -1,8 +1,9 @@
 name: Metrics
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+    - cron: "30 18 * * 6"
   push:
     branches:
       - main
